@@ -12,6 +12,7 @@ html {
     height: 48px;
     flex: 1;
     margin: 5px;
+    display: flex; 
   
 }
 .flex-container {
